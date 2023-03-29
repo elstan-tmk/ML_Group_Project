@@ -1,6 +1,6 @@
 # Machine Learning Group_Project
 
-Team Members include Fernando, Elstan and Lousin
+Team Members include Fernando, Elstan, Lisa and Lousin
 
 Here is our presentation: 
 
